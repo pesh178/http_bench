@@ -2,8 +2,8 @@
 
 http_bench is a tiny program that sends some load to a web application.  
 
-[English Document](https://github.com/linkxzhou/http_bench/blob/master/README.md)  
-[中文文档](https://github.com/linkxzhou/http_bench/blob/master/README_CN.md)  
+[English Document](https://github.com/188king/http_bench/blob/master/README.md)  
+[中文文档](https://github.com/188king/http_bench/blob/master/README_CN.md)  
   
 ## Installation
 
