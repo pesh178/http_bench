@@ -2,17 +2,17 @@
 
 http_bench is a tiny program that sends some load to a web application.  
 
-[English Document](https://github.com/188king/http_bench/blob/master/README.md)  
-[中文文档](https://github.com/188king/http_bench/blob/master/README_CN.md)  
+[English Document](https://github.com/pesh178/http_bench/blob/master/README.md)  
+[中文文档](https://github.com/pesh178/http_bench/blob/master/README_CN.md)  
   
 ## Installation
 
 ```
-go get github.com/188king/http_bench
+go get github.com/pesh178/http_bench
 ```
 or
 ```
-git clone git@github.com:188king/http_bench.git
+git clone git@github.com:pesh178/http_bench.git
 cd http_bench
 go build http_bench.go
 ```
