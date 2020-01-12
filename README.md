@@ -12,7 +12,7 @@ go get github.com/pesh178/http_bench
 ```
 or
 ```
-git clone git@github.com:pesh178/http_bench.git
+git clone https://github.com/pesh178/http_bench.git
 cd http_bench
 go build http_bench.go
 ```
